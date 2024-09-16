@@ -1,0 +1,13 @@
+entrypoint="index.html"
+hidden=[".config"]
+modules = ["web:v2-20230623-0b7a606"]
+
+[nix]
+channel = "stable-23_11"
+
+[deployment]
+publicDir = "/"
+deploymentTarget = "static"
+
+[objectStorage]
+defaultBucketID = "replit-objstore-526ebd22-8d26-488f-85d5-e8208068fa2c"
