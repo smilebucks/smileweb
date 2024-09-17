@@ -5,6 +5,10 @@ html {
   background-color: #e7d06d;
 }
 
+.cool {
+  color: #795c18;
+}
+
 .clickable {
   color: #7d733e;
 }
@@ -25,11 +29,6 @@ a:hover {
 }
 a:active {
   color: #ffd100; /* A slightly lighter purple for active state */
-}
-
-
-.cool {
-  color: #795c18;
 }
 
 ul li {
