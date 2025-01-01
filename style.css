@@ -18,11 +18,11 @@ html {
 }
 
 a {
-  color: #a38712; /* Dark purple */
+  color: #8A6F21; /* Dark purple */
   text-decoration: none; /* Remove default underline */
 }
 a:visited {
-  color: #79640d; 
+  color: #8A6F21; 
 }
 a:hover {
   color: #4b3e08; 
